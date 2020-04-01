@@ -1,0 +1,31 @@
+tr:nth-child(even) {
+	background: rgb(211, 209, 209)
+}
+tr:nth-child(odd) {
+	background: white
+}
+td:nth-child(1) {
+	size: 500px;
+	text-align: left;
+}
+tr:nth-child(9) {
+	background: rgba(194, 0, 0, 0.952);
+	color: white;
+	
+}
+table{
+	text-align: center;
+}
+
+body{
+	width: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+	height: 100%;
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	color: rgb(180, 176, 176)
+}
+

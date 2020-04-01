@@ -1,0 +1,59 @@
+#margem{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 100%;
+   
+}
+
+h2{
+    padding: 10px;
+}
+
+figure{
+    padding: 10px;
+    padding-bottom: 25px;
+    background-color: lightgray;
+}
+
+.centro-distribuicao{
+    margin: auto;
+    height: 50%;
+    width: 70%;
+    text-align: center;
+}
+
+.margem-txt{
+    padding-left: 50px; 
+    padding-right: 50px;
+}
+
+#margem-txt{
+    padding-left: 60px; 
+    padding-right: 50px;
+}
+
+.titulo{
+    width: 100%;large
+    border-bottom: 2px solid black;
+}
+
+p{
+    text-indent: 50px;
+}
+    
+        
+#fotodireita{
+    height: 250px;
+    width: 350px;
+    margin-right: 0px;
+}
+
+#loja{
+    background-color: lightgray;
+    color: blue; 
+    text-align: center;
+    padding: 5px;
+    font-size: large;
+    margin-bottom: 60px;
+}
