@@ -5,10 +5,18 @@
 
 - [Construindo sua primeira página webArquivo](Atividades/Atividade01-ConstruindoSuaPrimeiraPáginaWeb)
 
-### Atividade 03
+
+
+### ExercicioAvaliativo01 {
+
+##### Atividade 03
 
 - [Trabalhando Com Tabelas](Atividades/Atividade03-TrabalhandoComTabelas)
 
-### Atividade 04
+##### Atividade 04
 
 - [Estruturação de um site](Atividades/Atividade04-EstruturaçãoDeUmSite)
+
+
+
+### }
