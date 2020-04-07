@@ -25,19 +25,21 @@ header {
     padding-top: 10px;
 }
 
-nav {
+#conteudo nav {
     background-color: rgb(0, 47, 255);
     border-style: solid;
     margin-top: 10px;
+    margin-right: 10px;
     border-color: red;
     border-width: 5px;
+    flex-basis: 300px;
+
 }
 
-main {
+#conteudo main {
     background-color: rgb(255, 255, 255);
     flex-direction: column;
     flex-basis: 100%;
-    flex-basis: 300px;
     border-style: solid;
     margin-top: 10px;
     padding-left: 10px;
@@ -46,8 +48,28 @@ main {
 
 footer {
     background-color: rgb(0, 47, 255);
+    flex-direction: column;
     border-style: solid;
     margin-top: 10px;
     border-color: red;
-    border-width: 5px;
+    border-width: 5px; 
+}
+
+
+#conteudo {
+    display: flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 600px){
+
+    #conteudo {
+      flex-direction: column;
+    }
+
+    #conteudo nav { 
+        margin-right: 0;
+        flex-basis: 50px;
+    }   
+     
 }

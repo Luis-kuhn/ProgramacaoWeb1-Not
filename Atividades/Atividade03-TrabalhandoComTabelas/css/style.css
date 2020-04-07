@@ -30,7 +30,14 @@ h2 {
 }
 
 footer{
-	position: relative;
+	position: fixed;
 	text-align: right;
+	padding-left: 185px;
+
 }
 
+hr{
+	padding-left: 0;
+	position: relative;
+	
+}
