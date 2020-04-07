@@ -9,17 +9,17 @@
 
 ### ExercicioAvaliativo01 {
 
-#### Atividade 03
+  #### Atividade 03
 
-- [Trabalhando Com Tabelas](Atividades/Atividade03-TrabalhandoComTabelas)
+  - [Trabalhando Com Tabelas](Atividades/Atividade03-TrabalhandoComTabelas)
 
-#### Atividade 04
+  #### Atividade 04
 
-- [Estruturação de um site](Atividades/Atividade04-EstruturaçãoDeUmSite)
+  - [Estruturação de um site](Atividades/Atividade04-EstruturaçãoDeUmSite)
 
-#### Atividade 05
+  #### Atividade 05
 
-- [Estruturação de um site - Menu Lateral Página](Atividades/Atividade05-EstruturaçãoDeUmSite-MenuLateralPágina)
+  - [Estruturação de um site - Menu Lateral Página](Atividades/Atividade05-EstruturaçãoDeUmSite-MenuLateralPágina)
 
 ### }
 
