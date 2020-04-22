@@ -10,7 +10,7 @@ Grupo: Luis Augusto Kühn, Thomas Ricardo Reinke
 
 
 
-- [ ] 1) Desenvolva uma página web conforme especificado:
+- [X] 1) Desenvolva uma página web conforme especificado:
 - A página deve conter uma barra de menu horizontal, com os seguintes menus: Institucional,
 Produtos e Sobre
 - Para o menu institucional deve haver os submenus Localização e Estrutura
@@ -24,16 +24,16 @@ aparecer quando o mouse passar por cima da tabela. Utilize como exemplo um e-com
 que apresenta os produtos a serem comprados.  
   
 
-- [ ] 3) Crie um código JavaScript que lê o conteúdo de um array e cria uma lista não ordenada (ul) na
+- [X] 3) Crie um código JavaScript que lê o conteúdo de um array e cria uma lista não ordenada (ul) na
 página com o conteúdo desse array. O texto da lista deve ser em fonte “Arial”, tamanho 16, cor azul.
 Coloque um título para essa lista, o mesmo deve ser em negrito.
 
 
-- [ ] 4) Crie um código JavaScript com 3 objetos da classe Filme (titulo, ano, gênero). A página deve mostrar
+- [X] 4) Crie um código JavaScript com 3 objetos da classe Filme (titulo, ano, gênero). A página deve mostrar
 o conteúdo desses objetos usando HTML e CSS.  
   
 
-- [ ] 5) Crie um formulário em HTML contendo 3 campos do tipo input text, sendo um campo o número 1,
+- [X] 5) Crie um formulário em HTML contendo 3 campos do tipo input text, sendo um campo o número 1,
 outro campo o número 2 e por fim o número 3. Coloque labels para identificar cada um dos campos.
 Alinhe esses campos um ao lado do outro de modo que se a resolução do navegador for muito
 grande, o campo se posicione abaixo, tornando assim uma tela responsiva. Edite o CSS dos
@@ -43,7 +43,7 @@ com o valor da soma de todos eles, informando se o valor é par ou ímpar. Chame
 do botão Submit do formulário.  
   
 
-- [ ] 6) Crie um formulário HTML contendo 1 número (campo input text) e um botão (submit). Através do
+- [X] 6) Crie um formulário HTML contendo 1 número (campo input text) e um botão (submit). Através do
 botão, chame uma função Javascript que calcule o fatorial do número. Apresente o resultado em um
 campo de texto no próprio HTML. Através do CSS, mude a aparência do botão, tornando-o mais
 atrativo.   
