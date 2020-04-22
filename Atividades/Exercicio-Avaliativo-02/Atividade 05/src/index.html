@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+        <head >
+
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" type="text/css" href="../css/styles.css">    
+            <script src="../js/script.js"></script>            
+        
+        </head>
+        
+        <body>
+
+            <main>
+
+                <div class="box">
+
+                    <p>
+                        <b>5)</b> Crie um formulário em HTML contendo 3 campos do tipo input text, sendo um campo o número 1,
+                        outro campo o número 2 e por fim o número 3. Coloque labels para identificar cada um dos campos.
+                        Alinhe esses campos um ao lado do outro de modo que se a resolução do navegador for muito
+                        grande, o campo se posicione abaixo, tornando assim uma tela responsiva. Edite o CSS dos
+                        componentes do formulário de modo que não fiquem originais (HTML puro). Crie uma função que lê
+                        esses valores numéricos provenientes dos elementos HTML existentes na página e abra um alerta
+                        com o valor da soma de todos eles, informando se o valor é par ou ímpar. Chame a função através
+                        do botão Submit do formulário. 
+                    </p>
+
+                    <div class="formContainer">
+
+                        <form>
+                        
+                            <div class="inputContainer">
+
+                                <span>
+                                <label for=number1>Número 1</label>
+                                <input type=number name=number1 id=number1 />
+
+                            </div>
+
+                            <div class="inputContainer">
+
+                                <span>
+                                <label for=number2>Número 2</label>
+                                <input type=number name=number2 id=number2 />
+
+                            </div>
+
+                            <div class="inputContainer">
+
+                                <span>
+                                <label for=number3>Número 3</label>
+                                <input type=number name=number3 id=number3 />
+
+                            </div>
+
+                            <input type="submit" value="Calcular" onclick="recarrega()"></input>
+    
+                        </form>
+
+                        
+
+                    </div>
+
+                    
+
+                </div>
+
+            </main>
+
+        </body>
+
+</html>

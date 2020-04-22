@@ -1,0 +1,72 @@
+body {
+
+    display: flex;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 100%;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    min-width: 365px;
+}
+
+.centro {
+
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+main {
+
+    padding: 10px;
+
+}
+
+
+/* execicio 2 */
+
+#ex2 {
+
+    background-color: rgba(214, 214, 214, 0.568) ;
+    padding: 10px;
+}
+
+
+.galeria {
+
+    display: flex;
+    justify-content: center;
+    flex-basis: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-right: 45px;
+}
+
+.fotos img {
+
+    display: flex;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 100%;
+    flex-direction: column;
+    height: 100px;
+    width: 245px;
+
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0);
+    
+}
+
+.fotos img:hover {
+    
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+        
+}

@@ -1,0 +1,57 @@
+body {
+
+    display: flex;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 100%;
+    flex-direction: column;
+    font-family: 'Arial', sans-serif;
+    min-width: 365px;
+    font-size: 16px;
+}
+
+.centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+main {
+
+    padding: 10px;
+    background-color: rgba(214, 214, 214, 0.568) ;
+}
+
+/* execicio 3 */
+
+
+
+
+#box {
+    color: blue;
+    display: flex;
+    background: none repeat scroll 0% 0% white;
+    border: 1px solid rgba(0, 0, 0);
+    height: 170px;
+    line-height: 100%;
+    text-align: center;
+    width: 175px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    flex-direction: column;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+
+#box:hover {
+ 
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+#box h3 {
+    height: 10px;
+}
