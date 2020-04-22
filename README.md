@@ -2,7 +2,7 @@
   <img src="https://seeklogo.com/images/F/FURB-logo-051554756A-seeklogo.com.png">
 </p>  
 
-# ProgramacaoWeb1-Not
+# Programação web 1
 
 | Atividades       | Link     |
 | :------------- | :----------: |
