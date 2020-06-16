@@ -10,6 +10,8 @@
 |  Exercicio Avaliativo 01 | [Trabalho](Atividades/Exercicio-Avaliativo-01)|
 |  Atividade 06 | [Estruturação Básica de um site - Menu Responsivo Página](Atividades/Atividade06-HTMLeCSS-estruturaBásicaDeUmSite-menuResponsivoPágina) |
 |  Exercicio Avaliativo 02 | [Trabalho](Atividades/Exercicio-Avaliativo-02)||
+| | |
+| Trabalho 3 parte 1| [Trabalho](https://github.com/Luis-kuhn/crud) |
 
 ## Tecnologias Utilizadas
 
